@@ -1,0 +1,16 @@
+{
+  "name": "node6poclinx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "v6.17.1"
+  }
+
+}
